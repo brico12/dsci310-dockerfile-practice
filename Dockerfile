@@ -1,1 +1,0 @@
-FROM <BASE_IMAGE>
